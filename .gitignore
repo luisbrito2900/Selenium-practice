@@ -1,0 +1,21 @@
+#Custom
+.DS_Store
+.idea
+allure-results/
+allure-report/
+target/
+*.mov
+
+#Compiled class file
+*.class
+
+#Log file
+*.Log
+
+#BlueJ files
+*ctxt
+
+#Mobile Tools for java (J2Me)
+.mtj.tmp/
+
+
